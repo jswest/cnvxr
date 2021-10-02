@@ -1,9 +1,13 @@
 {
   "name": "cnvxr",
   "version": "1.0.0",
-  "description": "",
+  "description": "a tool to quasi-blur images.",
   "main": "index.js",
-  "author": "John West",
+  "author": {
+    "name" : "John West",
+    "email" : "john@beebe-west.com",
+    "url" : "http://beebe-west.com/john"
+  },
   "license": "MIT",
   "dependencies": {
     "canvas": "^2.8.0",

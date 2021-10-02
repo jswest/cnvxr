@@ -2,7 +2,7 @@
 
 ![Self-portrait in a convex mirror](docs/images/parm-cover.png)
 
-Three version of _Self-portrait in a convex mirror_ with a little help from `cnvxr`.
+Three versions of _Self-portrait in a convex mirror_ with a little help from `cnvxr`.
 
 ## Installation
 
